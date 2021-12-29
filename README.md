@@ -11,6 +11,7 @@ If you have know anything, do raise a PR and contribute :)
 * [Apple](https://opensource.apple.com/)
 * [Google](https://opensource.google/)
 * [Microsoft](https://opensource.microsoft.com/)
+* [Microsoft](https://opensource.microsoft.com/)
 
 
 ## Holidays
@@ -41,14 +42,11 @@ If you have know anything, do raise a PR and contribute :)
 
 * [Spotify](https://spotify.github.io/)
 
+## Networking
 
-
-
-
-
-
-* [Microsoft](https://opensource.microsoft.com/)
 * [Nokia](https://nokia.github.io/#/)
 
+
+## Finance
 
 * [J.P. Morgan](https://jpmorganchase.github.io/)
