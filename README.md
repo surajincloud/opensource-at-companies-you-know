@@ -12,3 +12,5 @@
 * [Nokia](https://nokia.github.io/#/)
 * [Twitter](https://opensource.twitter.dev/)
 * [Instagram](https://instagram-engineering.com/tagged/open-source)
+* [Lyft](https://lyft.github.io/)
+* [Zomato](https://zomato.github.io/)
