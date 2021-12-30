@@ -1,4 +1,4 @@
-# opensource-sites-by-companies
+# Open Source Sites by companies you know
 
 Nowadays, every company relies on OpenSource directly or indirectly, it's very good to see that companies are coming forward and showcasing their OpenSource projects. some of them are not very well known projects but might be useful for someone.
 
