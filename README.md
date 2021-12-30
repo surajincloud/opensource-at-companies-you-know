@@ -11,7 +11,6 @@ If you have know anything, do raise a PR and contribute :)
 * [Apple](https://opensource.apple.com/)
 * [Google](https://opensource.google/)
 * [Microsoft](https://opensource.microsoft.com/)
-* [Microsoft](https://opensource.microsoft.com/)
 
 
 ## Holidays
@@ -29,6 +28,7 @@ If you have know anything, do raise a PR and contribute :)
 * [Meta](https://opensource.fb.com/)
 * [Twitter](https://opensource.twitter.dev/)
 * [Instagram](https://instagram-engineering.com/tagged/open-source)
+* [Linkedin](https://engineering.linkedin.com/content/engineering/en-us/open-source)
 
 ## Food
 
